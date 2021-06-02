@@ -12,12 +12,12 @@ If you're ready to give our extension a try, please reach out and we'll get you 
 
 ## Changelog 
 
-### 0.0.2
+### 0.0.2 - 6/2/21
 - Moved activate of the extension to a browser action, by default StaffBar is now hidden
 - Cleaned up console.log & source map noise. 
 - Submitted to the Chrome Web App Store
 
-### 0.0.1
+### 0.0.1 - 6/1/21
 - Initial release 🎉
 
 ## Known Limitations
