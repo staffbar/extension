@@ -27,6 +27,9 @@ If you're ready to give our extension a try, please reach out and we'll get you 
 
 ## Changelog 
 
+### 0.0.4 - 6/2/21
+- Fixes telemetry
+
 ### 0.0.3 - 6/2/21
 - Handles uncaught error in trying to post message from background to content
 - Narrowed permissions required to `activeTab` and `<all_urls>`
