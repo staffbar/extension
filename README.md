@@ -22,10 +22,14 @@ If you're ready to give our extension a try, please reach out and we'll get you 
 
 ## Known Limitations
 
-- Right now our extension only works with `fetch` but we're adding `XMLHttpRequest` support soon. 
+- ~~Right now our extension only works with `fetch` but we're adding `XMLHttpRequest` support soon.~~
 - Rendering on some sites will not work as expected if they have a floating navigation bar. 
 
 ## Changelog 
+
+### 0.0.5 - 6/3/21
+- Adds support for capturing traffic initiated by `XMLHttpRequest`
+- This also supports the popular library `axios`
 
 ### 0.0.4 - 6/2/21
 - Fixes telemetry
